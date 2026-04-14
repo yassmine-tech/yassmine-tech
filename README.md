@@ -14,7 +14,6 @@ I am a highly motivated and disciplined learner currently building a strong foun
 🛠️ Skills:
 - Basic Networking (IP addressing, routing, switching)
 - Cisco Packet Tracer
-- Linux basics (Ubuntu)
 - Problem-solving & self-learning
 
 📜 Certifications:
