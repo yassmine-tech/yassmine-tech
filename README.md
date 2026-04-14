@@ -22,10 +22,10 @@ I am a highly motivated and disciplined learner currently building a strong foun
 - TryHackMe (learning path in progress)
 
 🌐 Languages:
-- German: B2 (exam scheduled)
+- German: B2 
 - English: B2
 - Arabic: Native
-- French: Intermediate
+- French: B2
 
 🚀 Goal:
 To start an Ausbildung in Germany in IT System Integration and grow into a skilled cybersecurity professional.
